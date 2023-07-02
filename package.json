@@ -1,0 +1,23 @@
+{
+  "name": "ai-chatbot",
+  "version": "0.1.0",
+  "description": "An easy-to-use command-line AI chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chatbot",
+    "ai",
+    "openai",
+    "chatGPT"
+  ],
+  "author": "Chen Lay <info@chanmyaemaung.net>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0",
+    "readline-sync": "^1.4.10"
+  }
+}

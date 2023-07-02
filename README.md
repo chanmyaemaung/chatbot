@@ -29,7 +29,3 @@ If you encounter any issues while using the ChatBot CLI, don't hesitate to conta
 ## Contribute
 
 Anyone in the world who wants to help make the ChatBot CLI better is welcome to do so. Visit our GitHub project at https://github.com/chanmyaemaung/job-board if you want to help with this project.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
